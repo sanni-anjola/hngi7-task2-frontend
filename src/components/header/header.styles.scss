@@ -1,0 +1,54 @@
+.header {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 90%;
+    margin: 10px auto;
+
+    .hng {
+        background-color: blue;
+        color: white;
+        width: 70px;
+        height: 70px;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 70px;
+        text-align: center;
+
+    }
+
+    .team-name {
+        width: 70px;
+        height: 70px;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 70px;
+
+        .flash {
+            color: blue;
+        }
+    }
+
+    .leads {
+        margin-left: auto;
+        text-align: left;
+        display: flex;
+
+        p {
+            display: flex;
+            flex-flow: column wrap;
+            width: 140px;
+
+            .handle {
+                font-size: 18px;
+                font-weight: bold;
+            }
+
+            .team-role {
+                font-size: 14px;
+                kerning: -10px;
+            }
+        }
+
+
+    }
+}

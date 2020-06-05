@@ -1,0 +1,39 @@
+.custom-button {
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    margin-left: 10px;
+
+    span {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 25px;
+        text-align: center;
+        background-color: white;
+        color: blue;
+        border-radius: 50%;
+    }
+
+    &.pass {
+        background-color: green;
+
+        span {
+            color: green;
+        }
+    }
+
+    &.fail {
+        background-color: red;
+
+        span {
+            color: red;
+        }
+    }
+}

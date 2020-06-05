@@ -1,0 +1,35 @@
+.card {
+    font-size: 14px;
+    width: 95%;
+    margin: 0.1px auto 0;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 40px;
+    border: 1px solid #ddd;
+    align-items: center;
+
+    span {
+        text-align: left;
+
+
+        &.pass {
+            background-color: rgba(0, 130, 0, .5);
+            color: green;
+            display: inline-block;
+            width: 50px;
+            text-align: center;
+        }
+
+        &.fail {
+
+            background-color: rgba(130, 0, 0, .5);
+            color: red;
+            display: inline-block;
+            width: 50px;
+            text-align: center;
+        }
+    }
+
+
+}
