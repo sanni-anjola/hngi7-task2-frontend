@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hngi7-task2-frontend/static/css/main.f5f99838.chunk.css",
+    "main.js": "/hngi7-task2-frontend/static/js/main.34aec2e0.chunk.js",
+    "main.js.map": "/hngi7-task2-frontend/static/js/main.34aec2e0.chunk.js.map",
+    "runtime-main.js": "/hngi7-task2-frontend/static/js/runtime-main.c59763d8.js",
+    "runtime-main.js.map": "/hngi7-task2-frontend/static/js/runtime-main.c59763d8.js.map",
+    "static/js/2.cb8d9530.chunk.js": "/hngi7-task2-frontend/static/js/2.cb8d9530.chunk.js",
+    "static/js/2.cb8d9530.chunk.js.map": "/hngi7-task2-frontend/static/js/2.cb8d9530.chunk.js.map",
+    "index.html": "/hngi7-task2-frontend/index.html",
+    "precache-manifest.014a3ed191843a90bb90ce4b616eab03.js": "/hngi7-task2-frontend/precache-manifest.014a3ed191843a90bb90ce4b616eab03.js",
+    "service-worker.js": "/hngi7-task2-frontend/service-worker.js",
+    "static/css/main.f5f99838.chunk.css.map": "/hngi7-task2-frontend/static/css/main.f5f99838.chunk.css.map",
+    "static/js/2.cb8d9530.chunk.js.LICENSE.txt": "/hngi7-task2-frontend/static/js/2.cb8d9530.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c59763d8.js",
+    "static/js/2.cb8d9530.chunk.js",
+    "static/css/main.f5f99838.chunk.css",
+    "static/js/main.34aec2e0.chunk.js"
+  ]
+}
